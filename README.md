@@ -1,3 +1,5 @@
+https://github.com/cbrgm/telegram-robot-rss
+
 # RobotRSS - A Telegram RSS Bot
 
 ![RobotRss Logo](logo/text/robotrss_logo_text_512.png)
