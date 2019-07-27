@@ -1,1 +1,1 @@
-worker: python robotrss.py
+worker: python3 robotrss.py
